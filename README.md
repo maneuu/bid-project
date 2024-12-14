@@ -19,11 +19,12 @@ Welcome to **Bid Project**, a straightforward bidding system created with Python
 
 ## 🚀 **How to Run**
 
-1. Clone the repository:
+1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/bid-project.git
+   git clone https://github.com/maneuu/bid-project.git
    ```
-2. Run the program
+2. Ensure you have Python installed (version 3.9 or higher).
+3. Run the program in your terminal:
    ```bash
    python main.py
    ```
